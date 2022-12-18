@@ -1,0 +1,2237 @@
+[DEBUG] 2022-08-08 23:38:59.294 [main] TestRunner - Test is Skipped:-Verify GoogleChkBox works fine
+[DEBUG] 2022-08-08 23:42:22.385 [main] TestRunner - Test is Skipped:-Verify GoogleChkBox works fine
+[DEBUG] 2022-08-08 23:44:39.984 [main] TestRunner - Test is Skipped:-Verify GoogleChkBox works fine
+[INFO ] 2022-08-15 23:52:44.416 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-15 23:54:25.142 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-15 23:56:21.843 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:12:43.658 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:23:24.132 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:28:21.765 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:31:20.677 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:40:24.778 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:50:26.320 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:52:22.524 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 00:54:58.233 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 01:04:13.999 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 01:05:22.311 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:28:59.128 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:32:49.902 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:33:52.501 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:35:21.460 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:35:21.519 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:35:22.602 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:35:22.665 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:37:06.310 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:37:06.351 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:37:07.432 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:37:07.506 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:37:38.939 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:37:38.985 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:37:41.069 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:37:41.124 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:38:10.148 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:38:10.191 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:38:12.280 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:38:12.339 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:47:42.949 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:47:43.002 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:47:45.086 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:49:37.398 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:49:37.455 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:49:39.489 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 09:53:01.506 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:53:01.550 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:53:03.601 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 09:53:32.399 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:53:32.443 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:53:32.471 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 09:55:43.638 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:55:43.684 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:55:45.768 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 09:59:33.778 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:59:33.837 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:59:35.899 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 09:59:42.025 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 09:59:42.083 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 09:59:44.147 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:04:40.656 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:04:40.703 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:04:44.748 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:04:53.727 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:04:53.794 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:04:57.852 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:05:27.224 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:05:27.263 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:05:29.318 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:05:35.951 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:05:36.024 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:05:38.104 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:06:06.361 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:06:06.402 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:06:10.462 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:06:15.519 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:06:15.578 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-08-16 10:06:19.652 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:30:36.605 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:30:36.657 [main] GoogleWebPage - Google Account app is clicked
+[DEBUG] 2022-08-16 10:30:38.681 [main] GoogleAccountApp - Google Account App is clicked
+[INFO ] 2022-08-16 10:30:43.649 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:30:43.711 [main] GoogleWebPage - Google Account app is clicked
+[DEBUG] 2022-08-16 10:30:45.724 [main] GoogleAccountApp - Google Account App is clicked
+[INFO ] 2022-08-16 10:36:31.575 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:36:33.641 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:36:40.613 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:36:42.721 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:37:06.546 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:37:10.624 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:37:17.823 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:37:21.895 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:39:55.206 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:39:57.323 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:40:04.460 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:40:06.567 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:41:27.971 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:41:30.081 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:41:34.961 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:41:37.069 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 10:50:47.044 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:50:54.334 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:59:03.163 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 10:59:11.744 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:10:40.597 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:10:44.685 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:10:51.985 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:10:56.049 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:25:05.955 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:25:24.926 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:26:25.472 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:26:40.496 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:26:46.020 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:27:12.949 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:45:45.322 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:46:08.868 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:47:58.124 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:48:08.006 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:48:55.195 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:49:14.403 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:50:17.140 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:50:37.050 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:51:48.685 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:51:52.791 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:51:58.034 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:52:02.091 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 11:57:48.606 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:58:10.404 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 11:59:46.354 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:00:05.738 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:06:04.074 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:06:24.226 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:09:12.478 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:09:34.219 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:17:13.568 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:17:24.078 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:18:15.451 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:18:27.433 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:19:41.005 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:19:49.438 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:20:34.334 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:20:44.691 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:23:41.735 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:23:52.106 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:25:00.082 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:26:07.072 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:32:41.461 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:33:01.193 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:51:36.661 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:51:38.715 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 12:51:50.347 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:51:52.429 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 12:57:20.146 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 12:57:29.202 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:01:06.213 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:01:08.271 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 13:01:15.634 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:01:17.711 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 13:04:08.965 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:04:11.069 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 13:04:19.751 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:04:21.807 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 13:06:59.680 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:07:18.107 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:08:22.384 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:08:41.954 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:13:50.877 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:13:53.958 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:14:00.295 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:14:03.392 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:15:30.235 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:15:33.372 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:15:40.635 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:15:43.715 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:16:46.088 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:16:49.162 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:16:58.746 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:17:01.800 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:30:50.108 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:31:08.461 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:32:36.321 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:32:54.426 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:36:59.417 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:37:25.890 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:43:32.748 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:43:51.034 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:50:05.979 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:50:27.557 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:53:35.989 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:53:39.099 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 13:53:48.390 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 13:53:51.503 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 16:44:25.007 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:44:32.377 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:47:06.525 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:47:13.061 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:48:54.057 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:49:01.547 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:50:34.779 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:50:36.796 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 16:50:52.424 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:50:54.436 [main] GoogleAccountApp - Google app is clicked
+[INFO ] 2022-08-16 16:53:13.465 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:53:30.673 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:54:33.791 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:54:54.785 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:56:45.732 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:56:54.252 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:57:42.542 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 16:58:01.963 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:03:21.641 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:03:29.999 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:20:53.431 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:20:59.624 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:31:06.726 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:31:06.787 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 17:31:14.630 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:31:14.688 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 17:44:25.207 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:44:25.252 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 17:44:30.848 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 17:44:30.923 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:07:00.602 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:07:00.713 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:07:03.479 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:07:08.603 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:07:08.680 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:07:11.467 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:09:00.124 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:09:00.171 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:09:01.883 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:09:06.524 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:09:06.573 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:09:08.206 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:09:12.444 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:09:12.500 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:09:14.403 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:12:59.058 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:13:00.118 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:13:03.627 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:13:11.879 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:13:12.957 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:13:17.621 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:13:28.969 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:13:30.018 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:13:37.632 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:14:00.737 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:14:01.806 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:14:06.748 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:14:16.184 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:14:17.234 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:14:22.801 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:14:31.248 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:14:32.296 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:14:35.911 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:59:30.964 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:59:32.133 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:59:35.626 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:59:45.056 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:59:46.149 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 19:59:50.346 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 19:59:57.241 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 19:59:58.433 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:00:02.664 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:00:09.686 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:00:10.775 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:00:14.336 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:06:51.222 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:06:52.377 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:06:56.468 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:07:06.131 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:07:07.175 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:07:11.445 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:07:19.352 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:07:20.456 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:07:25.156 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:07:35.037 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:07:36.084 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:07:40.436 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:08:51.526 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:08:52.682 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:08:56.261 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:09:06.480 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:09:07.594 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:09:11.314 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:09:18.283 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:09:19.504 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:09:22.981 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:09:30.196 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:09:31.246 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:09:35.560 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:11:44.785 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:11:45.883 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:11:53.346 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:12:06.217 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:12:07.332 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:12:11.883 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:12:21.231 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:12:22.330 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:12:26.079 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:12:36.159 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:12:37.350 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:12:41.579 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:13:08.547 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:13:09.657 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:13:13.475 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:13:23.746 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:13:24.856 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:13:29.209 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:13:37.895 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:13:39.011 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:13:42.433 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:13:50.241 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:13:51.444 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:13:56.091 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:14:33.158 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:14:34.342 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:14:37.968 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:14:45.458 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:14:46.682 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:14:50.771 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:14:58.507 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:14:59.599 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:15:03.436 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-16 20:15:10.760 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-16 20:15:11.819 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-16 20:15:15.220 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:26:21.992 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:26:23.149 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:26:27.188 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:27:20.770 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:27:21.944 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:27:25.481 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:27:34.212 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:27:35.329 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:27:39.190 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:27:48.260 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:27:49.374 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:27:53.462 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:28:03.284 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:28:04.392 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:28:08.276 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-17 23:52:02.916 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-17 23:52:04.028 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-17 23:52:07.841 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 00:09:57.380 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 00:09:58.495 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 00:10:01.798 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 00:10:08.199 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 00:10:09.295 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 00:10:12.371 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 00:10:19.044 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 00:10:20.138 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 00:10:23.538 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 00:10:30.747 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 00:10:31.836 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 00:10:35.135 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:07:38.210 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:07:39.265 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:07:43.476 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:07:45.602 [main] GoogleSearchOperation - Google Search Operation is verified
+[INFO ] 2022-08-18 13:07:53.414 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:07:54.478 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:07:59.500 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:08:01.596 [main] GoogleSearchOperation - Google Search Operation is verified
+[INFO ] 2022-08-18 13:08:10.469 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:08:11.566 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:08:15.806 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:08:17.900 [main] GoogleSearchOperation - Google Search Operation is verified
+[INFO ] 2022-08-18 13:08:25.345 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:08:26.401 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:08:31.014 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:08:33.121 [main] GoogleSearchOperation - Google Search Operation is verified
+[INFO ] 2022-08-18 13:26:35.911 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:26:37.017 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:26:40.328 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:26:47.464 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:26:48.604 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:26:51.684 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:26:58.694 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:26:59.789 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:27:03.755 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:27:11.216 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:27:12.317 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:27:15.648 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:27:24.354 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:27:25.471 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:27:29.325 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:28:20.979 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:28:22.093 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:28:25.736 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:28:33.941 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:28:35.042 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:28:38.744 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:28:45.620 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:28:46.724 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:28:50.390 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:28:57.805 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:28:58.904 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:29:02.481 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:29:09.957 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:29:11.010 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:29:14.225 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:33:01.424 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:33:02.499 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:33:06.856 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:33:17.371 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:33:18.569 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:33:22.396 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:33:28.956 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:33:30.057 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:33:33.438 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:33:39.846 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:33:40.950 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:33:44.630 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 13:33:51.321 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 13:33:52.394 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 13:33:55.813 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:29:13.476 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:29:14.590 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:29:18.471 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:29:35.983 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:29:37.113 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:29:41.166 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:30:03.402 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:30:04.491 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:30:07.537 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:30:24.089 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:30:25.189 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:30:28.860 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:30:45.830 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:30:46.922 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:30:50.455 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:32:14.538 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:32:15.626 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:32:18.972 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:32:26.164 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:32:27.274 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:32:30.706 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:32:36.944 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:32:38.042 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:32:41.752 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:32:48.199 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:32:49.302 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:32:52.778 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:32:59.501 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:33:00.603 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:33:03.763 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:46:53.637 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:46:54.735 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:46:57.980 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:47:05.095 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:47:06.182 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:47:09.795 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:47:16.473 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:47:17.575 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:47:21.192 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:47:28.630 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:47:29.751 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:47:33.174 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 14:47:41.301 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 14:47:42.402 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 14:47:45.987 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:54:00.148 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:54:01.200 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:54:08.505 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:54:25.024 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:54:26.105 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:54:34.930 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:54:50.017 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:54:51.068 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:54:57.150 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:55:14.469 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:55:15.517 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:55:22.148 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:55:40.022 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:55:41.083 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:55:52.524 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:59:02.324 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:59:03.396 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:59:08.136 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:59:20.693 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:59:21.735 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:59:27.769 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 21:59:39.113 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 21:59:40.221 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 21:59:46.755 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:00:05.001 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:00:06.058 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:00:17.424 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:00:28.252 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:00:29.359 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:00:33.224 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:05:06.444 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:05:07.514 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:05:15.281 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:05:32.373 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:05:33.445 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:05:40.469 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:05:55.872 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:05:57.007 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:06:02.401 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:06:13.124 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:06:14.248 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:06:20.259 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:06:34.692 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:06:35.761 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:06:40.938 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:07:47.412 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:07:48.502 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:07:55.071 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:08:06.820 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:08:07.934 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:08:13.415 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:08:35.111 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:08:36.179 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:08:40.827 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:08:54.102 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:08:55.203 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:09:05.566 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:09:21.692 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:09:22.764 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:09:30.004 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:34:59.642 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:34:59.707 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:35:02.210 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:35:02.367 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:35:09.914 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:35:09.975 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:35:15.097 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:35:15.214 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:35:25.791 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:35:25.883 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:35:33.550 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:35:33.644 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:35:51.402 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:35:51.489 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:35:58.085 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:35:58.189 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:36:18.442 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:36:18.531 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:36:28.740 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:36:28.811 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:41:17.479 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:41:17.548 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:41:32.672 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:41:32.751 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:41:53.194 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:41:53.262 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:42:06.362 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:42:06.407 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:42:24.586 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:42:24.637 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:42:28.064 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:42:28.143 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:42:38.470 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:42:38.531 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:42:43.659 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:42:43.742 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:42:56.408 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:42:56.475 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:43:05.754 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:43:05.805 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:47:11.252 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:47:11.311 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:47:17.806 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:47:32.732 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:47:32.793 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:47:38.519 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:47:50.427 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:47:50.491 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:47:57.609 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:48:18.101 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:48:18.165 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:48:23.535 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:48:39.442 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:48:39.486 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:48:46.286 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:49:46.072 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:49:46.136 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:49:50.079 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:49:52.245 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:50:04.064 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:50:04.145 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:50:08.741 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:50:10.849 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:50:26.712 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:50:26.801 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:50:34.879 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:50:36.991 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:50:50.438 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:50:50.511 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:50:54.255 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:50:56.408 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 22:51:11.661 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 22:51:11.727 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 22:51:21.592 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 22:51:23.685 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:06:01.728 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:06:01.802 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:06:14.917 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:06:17.013 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:06:49.786 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:06:49.837 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:07:04.721 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:07:06.888 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:07:29.225 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:07:29.315 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:07:38.677 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:07:40.846 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:08:04.466 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:08:04.530 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:08:07.493 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:08:09.645 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:08:30.624 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:08:30.742 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:08:44.447 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:08:46.607 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:36:14.226 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:36:14.277 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:36:15.726 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:36:17.857 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:36:19.928 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:36:37.304 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:36:37.368 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:36:39.594 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:36:41.703 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:36:43.788 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:36:53.452 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:36:53.537 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:36:56.445 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:36:58.601 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:37:00.656 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:37:08.512 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:37:08.563 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:37:10.199 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:37:12.346 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:37:14.390 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:37:21.843 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:37:21.902 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:37:23.703 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:37:25.808 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:37:27.846 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:37:34.725 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:37:34.778 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:37:36.262 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:37:38.375 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:37:40.419 [main] GoogleProductsVerify - Google Product are displayed
+[INFO ] 2022-08-18 23:49:05.023 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:49:05.080 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:49:09.323 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:49:11.476 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:49:35.826 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:49:35.881 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:49:37.770 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:49:39.891 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:49:56.533 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:49:56.652 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:49:57.855 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:50:00.004 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:50:17.083 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:50:17.171 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:50:18.827 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:50:20.939 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:50:38.740 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:50:38.823 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:50:41.204 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:50:43.359 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:51:03.225 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:51:03.276 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:51:04.869 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:51:07.007 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:53:29.358 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:53:29.412 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:53:31.090 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:53:33.237 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:53:50.211 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:53:50.252 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:53:51.834 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:53:53.967 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:54:12.390 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:54:12.462 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:54:14.008 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:54:16.091 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:54:35.404 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:54:35.454 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:54:37.327 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:54:39.452 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:54:56.627 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:54:56.701 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:54:58.340 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:55:00.473 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-18 23:55:21.869 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-18 23:55:21.911 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-18 23:55:23.402 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-18 23:55:25.541 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:01:09.276 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:01:09.334 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:01:11.317 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:01:13.490 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:01:30.231 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:01:30.273 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:01:31.700 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:01:33.865 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:01:50.716 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:01:50.779 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:01:52.063 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:01:54.210 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:02:11.170 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:02:11.263 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:02:12.547 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:02:14.712 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:02:30.895 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:02:30.963 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:02:31.947 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:02:34.077 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:02:52.958 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:02:53.008 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:02:54.041 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:02:56.190 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:06:46.427 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:06:46.473 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:06:47.816 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:06:49.934 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:07:06.336 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:07:06.395 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:07:07.640 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:07:09.812 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:07:33.632 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:07:33.714 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:07:41.230 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:07:43.319 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:07:59.908 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:07:59.968 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:08:01.062 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:08:03.216 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:08:20.213 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:08:20.280 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:08:21.612 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:08:23.725 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:08:40.480 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:08:40.531 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:08:41.871 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:08:44.009 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:12:03.382 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:12:03.432 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:12:04.680 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:12:06.822 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:12:28.086 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:12:28.163 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:12:30.878 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:12:33.020 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:12:50.483 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:12:50.537 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:12:51.762 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:12:53.913 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:13:12.640 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:13:12.687 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:13:14.160 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:13:16.320 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:13:34.886 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:13:34.931 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:13:36.105 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:13:38.264 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:13:54.749 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:13:54.803 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:13:56.126 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:13:58.272 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:16:39.858 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:16:39.903 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:16:41.226 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:16:43.406 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:17:00.475 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:17:00.548 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:17:01.474 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:17:03.599 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:17:19.864 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:17:19.937 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:17:21.111 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:17:23.244 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:17:39.292 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:17:39.352 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:17:40.576 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:17:42.690 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:17:58.787 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:17:58.841 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:18:00.253 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:18:02.412 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:18:20.858 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:18:20.912 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:18:22.063 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:18:24.203 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:23:31.245 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:23:31.299 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:23:32.636 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:23:34.743 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:23:51.415 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:23:51.463 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:23:52.915 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:23:55.056 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:24:14.128 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:24:14.207 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:24:15.538 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:24:17.644 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:24:35.043 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:24:35.101 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:24:36.236 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:24:38.367 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:24:54.952 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:24:55.035 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:24:56.562 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:24:58.698 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 00:25:15.358 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 00:25:15.427 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 00:25:16.849 [main] GoogleAccountApp - Google Language is verified
+[INFO ] 2022-08-19 00:25:18.993 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:08:19.142 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:08:19.204 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:08:22.915 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:08:25.028 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:08:52.942 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:08:52.993 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:09:00.762 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:09:02.846 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:09:38.522 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:09:38.567 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:09:50.789 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:09:52.868 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:10:23.054 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:10:23.090 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:10:30.547 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:10:32.641 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:11:02.783 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:11:02.820 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:11:12.266 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:11:14.362 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:11:35.920 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:11:35.957 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:11:41.233 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:11:43.344 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:22:08.551 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:22:08.595 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:22:15.078 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:22:17.158 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:22:41.384 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:22:41.423 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:22:47.048 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:22:49.142 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:23:27.255 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:23:27.293 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:23:39.718 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:23:41.815 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:24:19.556 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:24:19.593 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:24:30.897 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:24:33.001 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:25:10.878 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:25:10.923 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:25:17.324 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:25:19.407 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:25:47.498 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-19 22:25:47.535 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-19 22:25:54.590 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-19 22:25:56.694 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-19 22:41:07.686 [main] GoogleProductsVerify - Google Products are displayed
+[INFO ] 2022-08-20 00:15:23.622 [main] GoogleProductsVerify - Google Products are displayed
+[INFO ] 2022-08-20 00:15:52.181 [main] GoogleProductsVerify - Google Products are displayed
+[INFO ] 2022-08-20 00:16:06.036 [main] GoogleProductsVerify - Google Products are displayed
+[INFO ] 2022-08-20 00:16:17.129 [main] GoogleProductsVerify - Google Products are displayed
+[INFO ] 2022-08-20 00:45:08.772 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:45:31.758 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:45:51.275 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:46:11.187 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:46:29.046 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:51:40.980 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:52:00.361 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:52:23.045 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:52:43.052 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:53:09.544 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:53:31.428 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:55:57.606 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:56:19.000 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:56:41.718 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:57:04.751 [main] GoogleGmailLogin - Google signin is clicked
+[INFO ] 2022-08-20 00:58:47.253 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 00:58:47.300 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 00:58:48.509 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 00:58:50.653 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 00:59:08.350 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 00:59:08.418 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 00:59:09.887 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 00:59:12.029 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 00:59:28.685 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 00:59:28.733 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 00:59:29.939 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 00:59:32.093 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 00:59:48.791 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 00:59:48.866 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 00:59:50.233 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 00:59:52.377 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 01:00:10.089 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:00:10.163 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 01:00:12.245 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 01:00:14.372 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 01:00:33.956 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:00:33.996 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 01:00:35.570 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 01:04:20.601 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:04:20.655 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 01:04:21.775 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 01:04:23.946 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 01:04:41.034 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:04:41.100 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 01:04:42.723 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 01:04:44.889 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 01:05:02.482 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:05:02.530 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-20 01:05:03.918 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-08-20 01:05:06.088 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-08-20 01:05:25.963 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-20 01:05:26.027 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:45:03.904 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:45:04.065 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:45:21.726 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:45:21.767 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:46:00.209 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:46:00.254 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:46:17.835 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:46:17.876 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:46:35.405 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:46:35.531 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:46:56.559 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:46:56.602 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:47:16.586 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:47:16.650 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:48:46.376 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:48:47.477 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:49:05.900 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:49:06.980 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:49:25.733 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:49:26.817 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:49:45.802 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:49:46.873 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:50:05.216 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:50:06.260 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:50:25.174 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:50:26.227 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-08-23 19:50:45.701 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-08-23 19:50:46.776 [main] GoogleAccountApp - Google Account app is clicked
+[DEBUG] 2022-08-23 21:41:16.143 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-08-23 21:41:23.009 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-08-23 21:41:30.811 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-08-23 21:41:39.912 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-08-23 21:41:48.439 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-08-23 21:42:02.917 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[DEBUG] 2022-08-23 21:45:14.075 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-08-23 21:45:26.024 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-08-23 21:45:35.215 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-08-23 21:45:45.031 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-08-23 21:45:59.231 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-08-23 21:46:11.048 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[DEBUG] 2022-08-23 22:23:27.393 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-08-23 22:23:44.279 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-08-23 22:24:01.960 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-08-23 22:24:19.081 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-08-23 22:24:34.074 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-08-23 22:24:41.071 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[DEBUG] 2022-08-23 22:29:31.413 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-08-23 22:29:39.497 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-08-23 22:29:47.662 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-08-23 22:29:55.976 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-08-23 22:30:06.409 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-08-23 22:30:16.865 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[DEBUG] 2022-09-26 22:11:23.257 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-09-26 22:11:39.861 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-09-26 22:11:54.103 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-09-26 22:12:02.243 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-09-26 22:12:14.222 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-09-26 22:12:22.179 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[DEBUG] 2022-09-26 22:16:03.528 [main] TestRunner - Test is Skipped:-Verify GoogleWebPage works fine
+[DEBUG] 2022-09-26 22:16:10.338 [main] TestRunner - Test is Skipped:-Verify GoogleAccountApp works fine
+[DEBUG] 2022-09-26 22:16:21.977 [main] TestRunner - Test is Skipped:-Verify GoogleLanguageVerify works fine
+[DEBUG] 2022-09-26 22:16:33.401 [main] TestRunner - Test is Skipped:-Verify GoogleOpenCloseBrowser works fine
+[DEBUG] 2022-09-26 22:16:45.424 [main] TestRunner - Test is Skipped:-Verify GoogleSearchOperation works fine
+[DEBUG] 2022-09-26 22:16:50.703 [main] TestRunner - Test is Skipped:-Verify GoogleProductsVerify works fine
+[INFO ] 2022-09-26 22:26:38.574 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:26:39.628 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:26:57.646 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:27:15.690 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:27:16.824 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:27:34.713 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:27:35.812 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:28:00.248 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:28:01.339 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:28:29.924 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:28:31.015 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:29:00.329 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:29:01.428 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:30:57.575 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:30:57.629 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:31:35.233 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:31:35.272 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:32:08.169 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:32:08.248 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:32:31.604 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:32:31.683 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:33:04.727 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:33:04.796 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:33:34.410 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:33:34.476 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:34:44.337 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:34:44.419 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:43:59.058 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:43:59.123 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 22:47:54.853 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 22:47:54.920 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-26 23:13:30.411 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-26 23:13:31.518 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 00:08:34.922 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 00:08:36.033 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 00:08:45.228 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 00:08:46.294 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 00:13:35.860 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 00:13:36.924 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 00:13:43.972 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 00:13:45.073 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:33:51.512 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 22:33:52.561 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:34:05.744 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 22:34:06.788 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:54:43.900 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 22:54:44.953 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:54:48.675 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 22:54:56.827 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 22:54:57.893 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:55:03.151 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 22:55:24.201 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 22:55:25.254 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 22:55:45.163 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:09:15.251 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:09:16.323 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:09:20.649 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:09:22.779 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:09:30.854 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:09:31.907 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:09:37.042 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:09:39.157 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:09:54.726 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:09:55.805 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:10:08.105 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:10:10.209 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:10:50.769 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:10:51.844 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:11:11.409 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:11:13.504 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:14:50.985 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:14:52.092 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:15:17.018 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:15:19.171 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:16:12.676 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:16:13.769 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:17:10.095 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:17:12.217 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-27 23:17:58.273 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-27 23:17:59.381 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-27 23:18:17.810 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-27 23:18:19.926 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-28 00:03:21.533 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-28 00:03:22.645 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-28 00:03:26.144 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-28 00:03:28.293 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-28 00:03:34.906 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-28 00:03:35.970 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-28 00:03:39.817 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-28 00:03:41.984 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-28 00:03:51.613 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-28 00:03:52.694 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-28 00:04:01.556 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-28 00:04:03.726 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-28 00:04:13.785 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-28 00:04:14.873 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-28 00:04:18.832 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-28 00:04:20.986 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-28 00:13:48.473 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:19:09.088 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:19:10.205 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:19:15.864 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:19:28.754 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:19:29.862 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:19:35.899 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:19:58.019 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:19:59.083 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:20:07.607 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:20:49.745 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:20:50.808 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:21:03.617 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:22:13.236 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:22:14.345 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:22:39.186 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:33:33.776 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:33:34.890 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:34:01.774 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:34:03.886 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 22:34:39.067 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:34:40.129 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:34:55.308 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:34:57.402 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 22:35:49.993 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:35:51.091 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:36:13.935 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:36:16.060 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 22:36:32.857 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:36:33.894 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:36:40.104 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:36:42.213 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 22:37:06.712 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 22:37:07.777 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 22:37:16.357 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 22:37:18.486 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:19:48.589 [main] GoogleIndividualApps - Google search is verified
+[INFO ] 2022-09-29 23:21:25.642 [main] GoogleIndividualApps - Google search is verified
+[INFO ] 2022-09-29 23:22:36.176 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:22:37.252 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:22:42.590 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:22:44.700 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:23:00.085 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:23:01.132 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:23:05.663 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:23:07.804 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:23:22.816 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:23:23.862 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:23:33.854 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:23:35.935 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:24:14.529 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:24:15.581 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:24:22.617 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:24:24.667 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:24:58.675 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:24:59.715 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:25:13.198 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:25:15.288 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:25:37.803 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:25:38.844 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:25:50.801 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:25:52.891 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:26:00.532 [main] GoogleIndividualApps - Google search is verified
+[INFO ] 2022-09-29 23:27:50.380 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:27:51.455 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:27:56.770 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:27:58.955 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:28:13.902 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:28:14.954 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:28:20.893 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:28:23.047 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:28:55.337 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:28:56.410 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:29:02.639 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:29:04.807 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:29:16.697 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:29:17.844 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:29:22.623 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:29:24.794 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:29:35.947 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:29:37.132 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:29:41.779 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:29:43.866 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:29:56.645 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:29:57.687 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:30:02.734 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:30:04.884 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:33:24.927 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:33:26.026 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:33:32.399 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:33:34.533 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:33:58.454 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:33:59.511 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:34:15.487 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:34:17.601 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:34:52.294 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:34:53.363 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:34:59.211 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:35:01.322 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:35:15.841 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:35:16.891 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:35:22.847 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:35:25.006 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:35:37.756 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:35:38.821 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:35:47.694 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:35:49.836 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:36:09.946 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:36:11.095 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:36:16.162 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:36:18.329 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:41:30.412 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:41:31.510 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:41:35.064 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:41:37.222 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:41:45.820 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:41:46.959 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:41:50.627 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:41:52.800 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:42:01.455 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:42:02.554 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:42:07.987 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:42:10.156 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:42:20.174 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:42:21.416 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:42:26.400 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:42:28.561 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:42:43.364 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:42:44.471 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:42:50.459 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:42:52.623 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:43:19.034 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:43:20.151 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:43:28.376 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:43:30.498 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:53:27.632 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:53:28.721 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:53:31.752 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:53:33.845 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:53:57.927 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:53:58.995 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:54:04.468 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:54:06.636 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:54:33.232 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:54:34.309 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:54:38.534 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:54:40.687 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:55:10.265 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:55:11.373 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:55:15.305 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:55:17.410 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:55:39.339 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:55:40.485 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:55:43.707 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:55:45.880 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-29 23:56:14.433 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-29 23:56:15.507 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-29 23:56:19.894 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-29 23:56:22.054 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-30 00:04:14.869 [main] GoogleIndividualApps - Google search is verified
+[INFO ] 2022-09-30 00:04:38.334 [main] GoogleIndividualApps - Google search is verified
+[INFO ] 2022-09-30 00:05:55.295 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 00:05:56.398 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-30 00:05:59.465 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-30 00:06:01.545 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-30 00:06:20.805 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 00:06:21.868 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-30 00:06:27.609 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-30 00:06:29.714 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-30 00:06:50.725 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 00:06:51.784 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-30 00:06:56.337 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-30 00:06:58.443 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-30 00:07:17.422 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 00:07:18.536 [main] GoogleAccountApp - Google Account app is clicked
+[INFO ] 2022-09-30 00:07:22.063 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-09-30 00:07:24.200 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-09-30 22:53:51.846 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 22:54:41.630 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 22:55:34.260 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 22:56:43.452 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 22:57:58.894 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-09-30 22:58:26.481 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 21:48:35.766 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 21:48:36.020 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 21:52:37.878 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 21:52:37.983 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 21:56:34.683 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:15:46.308 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:15:46.399 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 22:22:20.711 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:22:20.819 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 22:35:26.915 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:37:59.723 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:58:41.759 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 22:58:41.865 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 22:58:41.865 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:01:17.279 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:01:17.383 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:01:17.383 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:05:57.249 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:05:57.299 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:05:57.300 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:06:21.245 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:06:21.305 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:06:21.306 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:06:55.393 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:06:55.450 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:06:55.456 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:07:57.376 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:07:57.437 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:07:57.438 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:08:37.222 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:08:37.300 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:08:37.301 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:09:08.847 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:09:08.900 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:09:08.900 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:12:29.262 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:12:29.314 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:12:29.315 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:12:35.878 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:12:37.967 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-05 23:13:04.398 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:13:04.470 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:13:04.470 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:13:19.578 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:13:21.698 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-05 23:14:20.151 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:14:20.242 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:14:20.243 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:14:30.851 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:14:32.946 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-05 23:15:06.655 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:15:06.712 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:15:06.712 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:15:15.244 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:15:17.315 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-05 23:15:52.543 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:15:52.600 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:15:52.600 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:15:59.120 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:16:01.200 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-05 23:16:48.029 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-05 23:16:48.086 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-05 23:16:48.086 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-05 23:16:59.418 [main] GoogleLanguageVerify - Google Language is verified
+[INFO ] 2022-10-05 23:17:01.494 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-08 19:38:07.623 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:38:07.667 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:38:07.667 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 19:38:28.784 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:38:28.878 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:38:28.878 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 19:38:53.890 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:38:54.002 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:38:54.003 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 19:39:38.218 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:39:38.335 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:39:38.335 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 19:40:04.524 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:40:04.581 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:40:04.581 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 19:40:41.867 [main] GoogleWebPage - Google search is verified
+[INFO ] 2022-10-08 19:40:41.993 [main] GoogleWebPage - Google app is clicked
+[INFO ] 2022-10-08 19:40:41.993 [main] GoogleWebPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:04:42.978 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:04:43.043 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:04:43.044 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:04:50.005 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:04:50.062 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:04:50.063 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:05:03.603 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:05:03.664 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:05:03.664 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:05:28.477 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:05:28.558 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:05:28.558 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:06:15.133 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:06:15.179 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:06:15.179 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:09:27.422 [main] GoogleAppPage - Google search is verified
+[INFO ] 2022-10-08 23:09:27.505 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:09:27.506 [main] GoogleAppPage - Google Account app is clicked
+[INFO ] 2022-10-08 23:35:37.017 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:35:46.284 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:43:07.400 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:43:18.791 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:44:50.288 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:44:58.391 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:50:24.510 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:50:31.161 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:53:14.222 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-08 23:53:24.016 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:01:15.829 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:01:38.315 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:09:09.904 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:09:26.058 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:18:38.107 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:18:59.537 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:19:17.460 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:21:57.544 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:22:24.802 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:22:52.988 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:38:42.818 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:39:10.509 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:39:38.543 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:45:39.173 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:46:06.660 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:46:33.327 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:48:37.544 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:49:04.555 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:49:35.255 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:56:27.282 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:56:55.777 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 00:57:22.854 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:23:16.787 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:23:54.016 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:24:25.185 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:34:00.408 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:34:36.756 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:40:34.334 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:41:01.883 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:46:43.564 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:47:14.268 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:49:57.184 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:50:02.527 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:51:50.814 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:52:00.509 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:55:11.020 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 10:55:48.489 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:00:23.137 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:01:02.715 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:02:38.074 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:03:33.822 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:07:05.534 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:07:10.765 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:08:14.163 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:08:42.382 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:10:27.214 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:10:49.647 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:19:03.050 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:19:33.160 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:20:58.513 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:21:34.570 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:23:26.855 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:23:56.303 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:25:45.754 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:25:57.759 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:28:50.338 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:28:54.845 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:37:10.961 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:37:15.719 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:50:31.532 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:50:45.867 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:54:02.810 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:54:07.915 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:56:31.373 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 11:56:37.027 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:22:01.371 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:22:09.263 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:33:51.316 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:34:25.715 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:35:49.970 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:36:21.678 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:48:26.575 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:48:56.480 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:50:53.816 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:51:36.649 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:55:09.794 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 12:55:48.137 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 19:58:52.612 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 20:18:33.002 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 20:18:34.136 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 20:18:40.946 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 20:18:42.041 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:11:23.848 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:11:24.967 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:11:47.393 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:11:48.490 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:12:25.885 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:12:26.972 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:14:32.966 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:14:34.123 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:15:14.278 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:15:15.383 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:15:57.860 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:15:58.977 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:17:19.650 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:17:20.768 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:17:26.475 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 21:17:38.840 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:17:39.942 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:17:46.497 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 21:17:55.440 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:17:56.563 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:18:01.196 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 21:22:38.358 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:22:39.520 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:23:02.997 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:23:04.125 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:23:38.670 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:23:39.779 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:27:21.073 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:27:22.203 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:27:40.162 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:27:41.269 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:28:18.863 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:28:19.973 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:51:24.835 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:51:25.955 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:51:48.569 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:51:49.646 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:52:17.512 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:52:18.614 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:55:15.269 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:55:16.376 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:55:27.200 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 21:55:50.649 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:55:51.758 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:55:58.568 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 21:56:34.073 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 21:56:35.176 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 21:56:43.141 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 23:11:19.988 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:11:21.086 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:11:50.951 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:11:52.044 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:12:29.029 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:12:30.115 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:15:51.722 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:15:52.815 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:15:59.503 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:16:00.589 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:16:09.976 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:16:11.079 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:21:32.896 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:21:33.998 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:22:04.580 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:22:05.670 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:22:40.877 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:22:41.976 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:25:11.558 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:25:12.686 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:25:45.113 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:25:46.221 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:26:34.082 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:26:35.177 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:30:00.277 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:30:01.373 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:30:07.222 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:30:08.311 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:30:19.946 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:30:21.040 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:34:18.191 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:34:19.304 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:34:31.930 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:34:33.021 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:34:45.914 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:34:46.991 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:36:45.569 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:36:46.687 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:36:50.388 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 23:36:56.867 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:36:57.955 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:37:04.669 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 23:37:19.113 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:37:20.201 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:37:26.081 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-09 23:44:16.430 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:44:17.575 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:44:23.850 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:44:24.977 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:44:32.764 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:44:33.899 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:46:17.635 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:46:18.754 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:46:46.014 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:46:47.121 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-09 23:47:14.114 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-09 23:47:15.238 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:29:04.658 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:29:05.797 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:29:11.907 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:29:13.006 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:29:20.505 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:29:21.581 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:31:01.189 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:31:02.321 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:31:04.959 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:31:19.250 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:31:20.334 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:31:24.115 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:31:40.089 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:31:41.204 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:31:49.525 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:56:12.992 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:56:14.101 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:56:16.201 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:56:21.089 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:56:22.238 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:56:24.297 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:56:31.501 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:56:32.607 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:56:36.157 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:58:43.298 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:58:44.417 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:58:46.752 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:58:51.602 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:58:52.714 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:58:54.712 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 00:59:02.395 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 00:59:03.508 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 00:59:07.505 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 19:26:40.457 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:26:41.623 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:26:46.739 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 19:26:59.449 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:27:00.551 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:27:07.337 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 19:27:25.917 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:27:27.027 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:27:32.176 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-10 19:31:19.584 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:31:20.706 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:31:49.502 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:31:50.630 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:32:14.104 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:32:15.282 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 19:53:14.367 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:54:05.967 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:54:53.616 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 19:55:54.842 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:41:51.123 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:41:52.264 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:42:34.475 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:42:35.585 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:43:36.602 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:43:37.701 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:44:24.747 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:44:25.868 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:45:18.312 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:45:19.417 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:57:37.271 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:57:38.405 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:58:17.741 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:58:18.858 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:59:09.385 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:59:10.501 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 22:59:56.448 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 22:59:57.536 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-10 23:00:42.133 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-10 23:00:43.239 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:06:12.523 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:06:13.670 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:06:40.755 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:06:41.869 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:07:34.267 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:07:35.398 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:07:54.976 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:07:56.070 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:08:44.625 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:08:45.726 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:26:03.624 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:26:04.745 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:26:31.349 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:26:32.453 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:27:10.019 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:27:11.129 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:27:38.010 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:27:39.127 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:28:10.366 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:28:11.494 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:37:04.372 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:37:05.509 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:37:29.376 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:37:30.497 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:37:59.499 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:38:00.605 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:38:56.597 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:38:57.702 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:39:27.800 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:39:28.873 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:42:50.534 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:42:51.676 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:43:16.240 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:43:17.364 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:43:38.803 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:43:39.911 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:44:29.121 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:44:30.230 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:44:39.202 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:46:38.566 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:46:39.675 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:47:14.676 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:47:15.775 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:47:41.067 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:47:42.186 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:48:02.924 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:48:04.026 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-11 23:48:44.733 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-11 23:48:45.836 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-17 20:29:58.938 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:30:29.463 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:31:37.514 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:31:57.286 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:51:24.370 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:51:47.787 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:52:17.829 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:52:42.366 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 20:53:08.548 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:03:07.581 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:03:33.316 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:03:55.737 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:04:06.059 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:04:18.266 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:11:24.748 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:12:16.021 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:12:40.653 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:13:13.065 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:13:48.326 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:17:44.241 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:18:33.211 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:19:01.148 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:19:13.898 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:19:19.418 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:19:31.878 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:19:50.348 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:20:15.877 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:20:38.582 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:50:29.809 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:51:08.598 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:51:38.347 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:52:04.020 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:52:24.159 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:58:58.542 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 21:59:23.177 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:00:29.430 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:00:54.042 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:01:20.284 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:11:01.795 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:11:31.370 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:12:14.505 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:12:37.018 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:12:44.579 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:15:23.274 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:17:07.585 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:21:51.676 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:22:28.002 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:22:47.550 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:24:38.149 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-17 22:25:13.279 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:37:15.575 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:38:23.858 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:53:46.049 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:53:47.178 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 22:54:05.660 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:54:06.773 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 22:55:03.437 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:55:04.552 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 22:55:15.802 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:59:21.493 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:59:22.620 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 22:59:36.832 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 22:59:37.970 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:00:20.874 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:00:22.127 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:00:46.601 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:00:47.732 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:01:40.637 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:01:41.785 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:02:09.491 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:02:10.587 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:04:38.064 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:04:39.253 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:05:20.340 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:05:21.460 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:05:57.434 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:06:07.921 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:06:12.854 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:06:17.323 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:08:10.317 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:08:48.894 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:10:07.957 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:11:51.944 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:12:34.602 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:12:53.110 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:14:55.945 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:15:54.563 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:16:33.728 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:16:53.467 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:17:02.521 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:19:11.295 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:19:55.834 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:20:01.200 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:20:22.412 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:20:29.884 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:20:37.110 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:21:35.165 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:21:40.995 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:22:36.214 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:22:37.364 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:23:03.955 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:23:05.085 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:23:38.494 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:23:39.706 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:24:04.893 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:25:40.825 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:26:47.638 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:28:16.955 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:29:07.781 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:29:09.053 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:29:16.078 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:29:37.057 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:29:38.204 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:29:42.239 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:30:58.198 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:30:59.369 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:31:05.420 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:31:06.561 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:31:10.028 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:31:13.250 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:31:16.382 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:31:19.662 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:33:36.759 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:33:37.885 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:33:56.918 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:33:58.032 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:34:20.095 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:34:21.170 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-19 23:34:44.268 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-19 23:34:45.370 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-20 21:59:12.010 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 21:59:27.318 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 21:59:53.796 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 21:59:58.278 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:00:02.366 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:02:28.602 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:02:49.685 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:02:55.296 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:03:00.061 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:03:04.033 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:03:07.568 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:03:13.009 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:06:08.147 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:06:21.577 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:06:45.791 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:06:56.738 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:07:01.986 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:07:05.803 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:07:09.736 [main] GoogleWebPage - GoogleOpenCloseBrowser is completed
+[INFO ] 2022-10-20 22:13:13.225 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:13:23.589 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:13:36.593 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:14:04.990 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:14:21.461 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:15:11.197 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:15:18.000 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:18:39.822 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:19:14.098 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:19:44.039 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:20:13.587 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:20:18.013 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:20:22.190 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:20:25.629 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:21:32.325 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:21:40.421 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:21:49.632 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:21:57.515 [main] GoogleWebPage - GoogleOpenCloseBrowser are displayed
+[INFO ] 2022-10-20 22:23:38.554 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:24:02.679 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:25:38.339 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:25:43.771 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:52:12.317 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:52:29.394 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:53:09.871 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:53:21.482 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:53:25.338 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:53:27.528 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:53:36.591 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:54:13.935 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:54:25.821 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:54:38.289 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:54:45.253 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:54:59.450 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:55:08.705 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 22:55:17.431 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-20 23:08:33.388 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:08:46.525 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:08:50.515 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:08:54.472 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:08:58.737 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:09:02.933 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:09:07.556 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:11:05.596 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:11:20.637 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:24.733 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:42.414 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:46.918 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:51.020 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:55.568 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:12:59.174 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-20 23:13:02.587 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 21:59:00.591 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 22:00:51.652 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 22:00:57.312 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 22:02:55.547 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 22:03:41.669 [main] GoogleOpenCloseBrowser - GoogleOpenCloseBrowser is launched
+[INFO ] 2022-10-31 22:07:27.890 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-31 22:08:35.759 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-10-31 22:10:25.208 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-31 22:11:31.811 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-31 22:11:54.892 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-10-31 22:14:31.433 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-10-31 22:28:57.016 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-10-31 22:29:39.533 [main] GoogleSearchOperation - Google search is verified
+[INFO ] 2022-11-08 18:26:22.255 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:26:44.395 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:27:11.527 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:27:32.965 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:28:03.258 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:33:56.997 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:34:06.210 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:34:25.314 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:34:54.074 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:35:35.142 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:35:47.385 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:36:23.476 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:44:19.424 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:44:26.837 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:44:34.257 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:44:45.066 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:44:52.116 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 18:45:04.019 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:31:47.057 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:31:57.964 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:32:14.590 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:40:35.841 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:40:44.295 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:41:02.082 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:41:50.211 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:42:12.610 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:46:06.559 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:46:13.083 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:46:21.258 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:46:50.522 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:47:49.482 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:48:38.000 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:48:45.385 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:49:19.488 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:49:35.317 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:52:09.535 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:52:21.666 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 19:52:34.634 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:00:30.355 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:00:38.726 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:01:04.524 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:01:18.210 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:05:17.523 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:05:24.115 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:05:29.922 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:06:31.708 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:06:42.164 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:06:56.129 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:08:28.108 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:08:38.167 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:08:53.395 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:16:12.214 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:16:27.234 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:16:51.960 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:17:37.790 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:17:54.698 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:19:07.157 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:19:20.935 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:19:53.953 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:25:00.365 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:25:13.005 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:25:43.806 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:26:41.625 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:26:51.099 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:27:05.870 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:28:43.110 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:28:55.011 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:29:20.760 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:31:50.934 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:32:05.611 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:33:38.595 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:33:58.581 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:35:21.433 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:35:53.469 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:37:44.260 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:38:31.715 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:40:04.650 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:41:52.114 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:42:04.908 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:43:24.601 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:43:38.809 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:51:27.798 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:51:42.672 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:52:46.414 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:53:02.227 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:53:57.711 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:54:06.794 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:54:21.697 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:55:09.995 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 20:57:41.515 [main] GoogleLanguage - Google Language is verified
+[INFO ] 2022-11-08 21:03:48.837 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:04:00.704 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:11:45.238 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:12:23.693 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:12:55.478 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:14:36.376 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:15:06.032 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:15:43.713 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:16:10.291 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:16:53.654 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:22:38.156 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:23:05.233 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:24:50.199 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:25:18.977 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:28:09.654 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-11-08 21:28:38.486 [main] GoogleAppPage - Google app is clicked
+[INFO ] 2022-12-09 00:43:21.658 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:43:22.946 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:43:23.986 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:43:25.014 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:43:31.436 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:43:32.659 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:43:33.667 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:43:34.674 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:43:44.147 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:43:45.507 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:43:46.522 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:43:47.540 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:43:52.435 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:43:53.701 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:43:54.705 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:43:55.713 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:00.833 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:02.086 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:03.092 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:04.100 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:08.526 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:09.743 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:10.751 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:11.758 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:16.086 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:17.302 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:18.311 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:19.316 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:24.639 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:25.892 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:26.904 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:27.908 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:32.607 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:33.816 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:34.823 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:35.825 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:39.822 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:41.069 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:42.075 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:43.081 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:49.984 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:44:51.185 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:44:52.195 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:44:53.207 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:44:59.978 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:45:01.310 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:45:02.324 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:45:03.332 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:45:07.664 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:45:08.854 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:45:09.858 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:45:10.870 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:45:15.002 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:45:16.251 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:45:17.257 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:45:18.267 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:45:23.158 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:45:24.406 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:45:25.416 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:45:26.424 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:46:22.626 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:46:23.866 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:46:24.908 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:46:25.913 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:46:30.315 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:46:31.497 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:46:32.513 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:46:33.516 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:46:38.540 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:46:39.797 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:46:40.805 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:46:41.812 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:46:46.141 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:46:47.389 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:46:48.397 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:46:49.403 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:46:54.523 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:46:55.804 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:46:56.814 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:46:57.826 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:02.252 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:03.517 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:04.525 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:05.539 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:10.937 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:12.230 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:13.238 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:14.241 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:19.035 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:20.299 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:21.303 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:22.312 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:28.596 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:29.844 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:30.846 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:31.847 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:36.395 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:37.640 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:38.655 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:39.663 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:44.510 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:45.754 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:46.757 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:47.760 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:51.853 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:53.107 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:47:54.118 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:47:55.120 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:47:58.319 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:47:59.522 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:48:00.529 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:48:01.535 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:48:03.684 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:48:04.867 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:48:05.871 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:48:06.880 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:48:09.035 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:48:10.225 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:48:11.239 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:48:12.250 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:05.274 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:06.503 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:07.550 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:08.563 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:13.326 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:14.589 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:15.596 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:16.606 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:21.343 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:22.556 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:23.560 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:24.567 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:29.447 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:30.676 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:31.680 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:32.688 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:45.522 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:46.734 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:47.742 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:48.748 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:54:53.693 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:54:54.953 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:54:55.955 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:54:56.958 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:04.881 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:06.139 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:07.153 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:08.168 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:13.070 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:14.332 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:15.346 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:16.359 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:20.562 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:21.813 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:22.829 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:23.837 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:28.900 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:30.128 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:31.137 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:32.140 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:36.838 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:38.081 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:39.084 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:40.089 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:44.662 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:45.937 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:46.947 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:47.955 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:55:53.079 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:55:54.287 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:55:55.294 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:55:56.300 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:56:01.605 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:56:02.858 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:56:03.872 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:56:04.884 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 00:56:11.853 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 00:56:13.128 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 00:56:14.139 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 00:56:15.146 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:10.549 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:11.829 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:12.864 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:13.870 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:19.173 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:20.429 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:21.431 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:22.443 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:27.221 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:28.479 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:29.482 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:30.491 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:35.326 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:36.591 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:37.608 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:38.614 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:43.217 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:44.466 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:45.472 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:46.481 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:00:50.715 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:00:51.918 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:00:52.923 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:00:53.935 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:00.312 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:01.585 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:02.591 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:03.599 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:09.231 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:10.535 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:11.560 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:12.583 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:17.287 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:18.525 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:19.545 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:20.569 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:25.025 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:26.279 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:27.286 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:28.288 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:32.944 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:34.202 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:35.210 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:36.215 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:40.753 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:42.018 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:43.020 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:44.029 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:49.070 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:50.326 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:51.330 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:01:52.342 [main] GoogleSearchOperation - googlesearch is clicked
+[INFO ] 2022-12-09 01:01:56.819 [main] GoogleWebPage - GoogleWebPage is launched
+[INFO ] 2022-12-09 01:01:58.067 [main] Account_POM - googleApps is clicked
+[INFO ] 2022-12-09 01:01:59.074 [main] GoogleLanguage - googlelanguage is clicked
+[INFO ] 2022-12-09 01:02:00.085 [main] GoogleSearchOperation - googlesearch is clicked
